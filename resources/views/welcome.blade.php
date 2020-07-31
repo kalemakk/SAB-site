@@ -444,6 +444,7 @@
                 </div>
             </div>
         </section>
+        <!-- -->
 
         <!-- Pricing -->
         <section id="pricing" class="section-6 plans featured left">
