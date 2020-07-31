@@ -1,11 +1,6 @@
 <!DOCTYPE html>
-
 <html lang="en">
-
-
-<!-- Mirrored from leverage.codings.dev/home-creative-agency-2-one-page by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Jul 2020 09:05:39 GMT -->
 <head>
-
         <!-- ==============================================
         Basic Page Needs
         =============================================== -->
@@ -17,10 +12,9 @@
 
         <title>SAB Core Technologies</title>
 
-        <meta name="description" content="Creative Agency, Portfolio, Corporate, Startup & Technology">
-        <meta name="subject" content="Creative Agency, Portfolio, Corporate, Startup & Technology">
-        <meta name="author" content="Codings">
-
+        <meta name="description" content="">
+        <meta name="subject" content="">
+        <meta name="author" content="Alex, Sharp, and Brian">
         <!-- ==============================================
         Favicons
         =============================================== -->
@@ -39,6 +33,11 @@
         <link rel="stylesheet" href="../assets/css/vendor/animation.min.css">
         <link rel="stylesheet" href="../assets/css/vendor/gallery.min.css">
         <link rel="stylesheet" href="../assets/css/vendor/cookie-notice.min.css">
+
+        <!-- =============================================
+        css for fa icons
+        ====================================-->
+        <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 
         <!-- ==============================================
         Custom Stylesheet
@@ -73,7 +72,6 @@
     </head>
 
     <body>
-
         <!-- Header -->
         <header id="header">
 
@@ -374,8 +372,8 @@
             <div class="container">
                 <div class="row intro">
                     <div class="col-12 col-md-9 align-self-center text-center text-md-left">
-                        <h2 class="featured">Best Services</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        <h2 class="featured">Our Best Services</h2>
+                        <p>We offer the following services.</p>
                     </div>
                     <div class="col-12 col-md-3 align-self-end">
                         <a href="#contact" class="btn mx-auto mr-md-0 ml-md-auto primary-button smooth-anchor"><i class="icon-speech"></i>CONTACT US</a>
@@ -384,49 +382,62 @@
                 <div class="row justify-content-center text-center items">
                     <div class="col-12 col-md-6 col-lg-4 item">
                         <div class="card featured">
-                            <i class="icon icon-layers"></i>
-                            <h4>Digital Marketing</h4>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>
+                            <i class="icon icon-screen-smartphone"></i>
+                            <i class="fa fa-camera-retro fa-5x"></i>
+                            <h4>Mobile Apps Development</h4>
+                            <p>We develop high quality Android, ios and cross platform(both ios and android) mobile applications.
+
+
+
+
+                            </p>
                             <a href="#contact" class="smooth-anchor"><i class="btn-icon icon-arrow-right-circle"></i></a>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4 item">
                         <div class="card">
-                            <i class="icon icon-rocket"></i>
-                            <h4>Trade Shows</h4>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>
+                            <i class="icon icon-screen-desktop"></i>
+                            <h4>Desktop Apps Development</h4>
+                            <p>We are capable of developing any kind of desktop Application at an affordable price.
+
+
+
+
+                            </p>
                             <a href="#contact" class="smooth-anchor"><i class="btn-icon icon-arrow-right-circle"></i></a>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4 item">
                         <div class="card">
-                            <i class="icon icon-briefcase"></i>
-                            <h4>Branding</h4>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>
+                            <i class="icon icon-organization"></i>
+                            <h4>Web Apps Development</h4>
+                            <p> We develop any kind of web based Applications such as Teamwork systems, Library management systems,School management systems,business support systems,Sacco management systems.
+                            </p>
                             <a href="#contact" class="smooth-anchor"><i class="btn-icon icon-arrow-right-circle"></i></a>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4 item">
                         <div class="card">
-                            <i class="icon icon-plane"></i>
-                            <h4>Content Creation</h4>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>
-                            <a href="#contact" class="smooth-anchor"><i class="btn-icon icon-arrow-right-circle"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 item">
-                        <div class="card">
-                            <i class="icon icon-chart"></i>
-                            <h4>Graphic Design</h4>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>
+                            <i class="icon icon-social-dropbox"></i>
+                            <h4>Website Development</h4>
+                            <p>Are you in need of a website? we develop high quality websites, using modern technologies.These range from small scale to large scale websites </p>
                             <a href="#contact" class="smooth-anchor"><i class="btn-icon icon-arrow-right-circle"></i></a>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4 item">
                         <div class="card featured">
-                            <i class="icon icon-drawer"></i>
-                            <h4>Media Buying</h4>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>
+                            <i class="icon icon-note"></i>
+                            <h4>Software Maintenance</h4>
+                            <p>Do you have issues with your existing software? we have a solution for you. we can ensure that your old software meets your current business requirements.</p>
+                            <a href="#contact" class="smooth-anchor"><i class="btn-icon icon-arrow-right-circle"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-4 item">
+                        <div class="card featured">
+                            <i class="icon icon-people"></i>
+                            <h4>Customer trainings</h4>
+                            <p>We offer free training to our customers until they are used to the new products. This training is free of charge.
+                            </p>
                             <a href="#contact" class="smooth-anchor"><i class="btn-icon icon-arrow-right-circle"></i></a>
                         </div>
                     </div>
