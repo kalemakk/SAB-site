@@ -87,67 +87,18 @@
                             <img src="assets/images/logo.svg" alt="Leverage">
                         -->
                     </a>
-
                     <!-- Nav holder -->
                     <div class="ml-auto"></div>
-
                     <!-- Navbar Items -->
                     <ul class="navbar-nav items">
-                        <li class="nav-item dropdown">
-                            <a href="#" class="nav-link">Home <i class="icon-arrow-down"></i></a>
-                            <ul class="dropdown-menu">
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">Multi-Page <i class="icon-arrow-right"></i></a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item"><a href="home-digital-agency-1.html" class="nav-link">Digital Agency 1</a></li>
-                                        <li class="nav-item"><a href="home-digital-agency-2.html" class="nav-link">Digital Agency 2</a></li>
-                                        <li class="nav-item"><a href="home-creative-agency-1.html" class="nav-link">Creative Agency 1</a></li>
-                                        <li class="nav-item"><a href="home-creative-agency-2.html" class="nav-link">Creative Agency 2</a></li>
-                                        <li class="nav-item"><a href="home-creative-agency-3.html" class="nav-link">Creative Agency 3</a></li>
-                                        <li class="nav-item"><a href="home-branding-agency-1.html" class="nav-link">Branding Agency 1</a></li>
-                                        <li class="nav-item"><a href="home-portfolio-1.html" class="nav-link">Portfolio 1</a></li>
-                                        <li class="nav-item"><a href="home-portfolio-2.html" class="nav-link">Portfolio 2</a></li>
-                                        <li class="nav-item"><a href="home-portfolio-3.html" class="nav-link">Portfolio 3</a></li>
-                                        <li class="nav-item"><a href="home-corporate-1.html" class="nav-link">Corporate 1</a></li>
-                                        <li class="nav-item"><a href="home-corporate-2.html" class="nav-link">Corporate 2</a></li>
-                                        <li class="nav-item"><a href="home-corporate-3.html" class="nav-link">Corporate 3</a></li>
-                                        <li class="nav-item"><a href="home-startup-1.html" class="nav-link">Startup 1</a></li>
-                                        <li class="nav-item"><a href="home-startup-2.html" class="nav-link">Startup 2</a></li>
-                                        <li class="nav-item"><a href="home-technology-1.html" class="nav-link">Technology 1</a></li>
-                                        <li class="nav-item"><a href="home-technology-2.html" class="nav-link">Technology 2</a></li>
-                                    </ul>
-                                </li>
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">One-Page <i class="icon-arrow-right"></i></a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item"><a href="home-digital-agency-1-one-page.html" class="nav-link">Digital Agency 1</a></li>
-                                        <li class="nav-item"><a href="home-digital-agency-2-one-page.html" class="nav-link">Digital Agency 2</a></li>
-                                        <li class="nav-item"><a href="home-creative-agency-1-one-page.html" class="nav-link">Creative Agency 1</a></li>
-                                        <li class="nav-item"><a href="home-creative-agency-2-one-page.html" class="nav-link">Creative Agency 2</a></li>
-                                        <li class="nav-item"><a href="home-creative-agency-3-one-page.html" class="nav-link">Creative Agency 3</a></li>
-                                        <li class="nav-item"><a href="home-branding-agency-1-one-page.html" class="nav-link">Branding Agency 1</a></li>
-                                        <li class="nav-item"><a href="home-portfolio-1-one-page.html" class="nav-link">Portfolio 1</a></li>
-                                        <li class="nav-item"><a href="home-portfolio-2-one-page.html" class="nav-link">Portfolio 2</a></li>
-                                        <li class="nav-item"><a href="home-portfolio-3-one-page.html" class="nav-link">Portfolio 3</a></li>
-                                        <li class="nav-item"><a href="home-corporate-1-one-page.html" class="nav-link">Corporate 1</a></li>
-                                        <li class="nav-item"><a href="home-corporate-2-one-page.html" class="nav-link">Corporate 2</a></li>
-                                        <li class="nav-item"><a href="home-corporate-3-one-page.html" class="nav-link">Corporate 3</a></li>
-                                        <li class="nav-item"><a href="home-startup-1-one-page.html" class="nav-link">Startup 1</a></li>
-                                        <li class="nav-item"><a href="home-startup-2-one-page.html" class="nav-link">Startup 2</a></li>
-                                        <li class="nav-item"><a href="home-technology-1-one-page.html" class="nav-link">Technology 1</a></li>
-                                        <li class="nav-item"><a href="home-technology-2-one-page.html" class="nav-link">Technology 2</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
+                        <li class="nav-item">
+                            <a href="#services" class="nav-link smooth-anchor">Home</a>
                         </li>
                         <li class="nav-item">
                             <a href="#about" class="nav-link">About</a>
                         </li>
                         <li class="nav-item">
                             <a href="#services" class="nav-link smooth-anchor">Services</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#pricing" class="nav-link smooth-anchor">Pricing</a>
                         </li>
                         <li class="nav-item">
                             <a href="#team" class="nav-link smooth-anchor">Team</a>
@@ -182,7 +133,7 @@
                     <!-- Navbar Action -->
                     <ul class="navbar-nav action">
                         <li class="nav-item ml-3">
-                            <a href="buy-at-themeforest/index.html" target="_blank" class="btn ml-lg-auto primary-button"><i class="icon-rocket"></i>BUY NOW</a>
+                            <a href="#contact" class="smooth-anchor btn ml-lg-auto primary-button"><i class="icon-phone"></i>CONTACT US</a>
                             <!--
                                 Suggestion: Replace the purchase button above with a contact button.
 
