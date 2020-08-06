@@ -337,10 +337,6 @@
                             <i class="fa fa-camera-retro fa-5x"></i>
                             <h4>Mobile Apps Development</h4>
                             <p>We develop high quality Android, ios and cross platform(both ios and android) mobile applications.
-
-
-
-
                             </p>
                             <a href="#contact" class="smooth-anchor"><i class="btn-icon icon-arrow-right-circle"></i></a>
                         </div>
@@ -350,10 +346,6 @@
                             <i class="icon icon-screen-desktop"></i>
                             <h4>Desktop Apps Development</h4>
                             <p>We are capable of developing any kind of desktop Application at an affordable price.
-
-
-
-
                             </p>
                             <a href="#contact" class="smooth-anchor"><i class="btn-icon icon-arrow-right-circle"></i></a>
                         </div>
@@ -368,7 +360,6 @@
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4 item">
-                        <div class="card">
                         <div class="card">
                             <i class="icon icon-social-dropbox"></i>
                             <h4>Website Development</h4>
