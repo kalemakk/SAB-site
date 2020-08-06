@@ -81,7 +81,7 @@
 
                     <!-- Navbar Brand-->
                     <a class="navbar-brand" href="index.html">
-                        Leverage<i>.</i>
+                        SABCORE<i>.</i>
                         <!--
                             Custom Logo
                             <img src="assets/images/logo.svg" alt="Leverage">
@@ -417,6 +417,7 @@
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4 item">
+                        <div class="card">
                         <div class="card">
                             <i class="icon icon-social-dropbox"></i>
                             <h4>Website Development</h4>
